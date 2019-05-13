@@ -1,0 +1,9 @@
+D:\Study\作业\计算机网络\Solution1\Client\bin\Debug\Client.exe.config
+D:\Study\作业\计算机网络\Solution1\Client\bin\Debug\Client.exe
+D:\Study\作业\计算机网络\Solution1\Client\bin\Debug\Client.pdb
+D:\Study\作业\计算机网络\Solution1\Client\obj\Debug\Client.Form1.resources
+D:\Study\作业\计算机网络\Solution1\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Study\作业\计算机网络\Solution1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Study\作业\计算机网络\Solution1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Study\作业\计算机网络\Solution1\Client\obj\Debug\Client.exe
+D:\Study\作业\计算机网络\Solution1\Client\obj\Debug\Client.pdb
